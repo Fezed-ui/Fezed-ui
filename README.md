@@ -9,7 +9,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVvYnp4M2xodWpxbXBmMmh1Z
 </div>
 
 <div align="center">
-    ![](https://komarev.com/ghpvc/?username=Fezed-ui&color=red)
+![](https://komarev.com/ghpvc/?username=Fezed-ui&color=red)
 </div>
 
 ---
