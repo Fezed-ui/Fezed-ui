@@ -8,7 +8,9 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVvYnp4M2xodWpxbXBmMmh1Z
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Fezed-ui&color=red ) 
+<div align="center">
+    [](https://komarev.com/ghpvc/?username=Fezed-ui&color=red)
+</div>
 
 ---
  
