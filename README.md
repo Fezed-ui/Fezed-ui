@@ -6,7 +6,6 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVvYnp4M2xodWpxbXBmMmh1Z
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=Fezed-ui&color=red ) 
