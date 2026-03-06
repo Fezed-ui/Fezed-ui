@@ -82,7 +82,7 @@ zaira = {
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fezed-ui&theme=react-dark&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=00ff9d&hide_border=false&border_radius=15&border_color=00ff9d&custom_title=⚡%20GALACTIC%20ACTIVITY%20GRAPH%20⚡" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fezed-ui&theme=react-dark&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=00ff9d&hide_border=false&border_radius=15&border_color=00ff9d&custom_title=%20GALACTIC%20ACTIVITY%20GRAPH%20" width="100%">
 </p>
 
 
